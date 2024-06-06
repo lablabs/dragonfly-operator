@@ -3,6 +3,16 @@ entries:
   dragonfly-operator:
   - apiVersion: v2
     appVersion: v1.1.2
+    created: "2024-06-06T08:50:29.513159033Z"
+    description: A Helm chart for dragonfly-operator
+    digest: f7d30385c1055b7a23c8ba69b9714bf240893d0f446b2077cc3623c8a0f9fd6e
+    name: dragonfly-operator
+    type: application
+    urls:
+    - https://github.com/lablabs/dragonfly-operator/releases/download/dragonfly-operator-0.1.2/dragonfly-operator-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: v1.1.2
     created: "2024-06-05T14:53:12.072170892Z"
     description: A Helm chart for dragonfly-operator
     digest: 6b63bfb3428885ba4a30a0afaae18812f509c6e182072a198003cb8485431a46
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/lablabs/dragonfly-operator/releases/download/dragonfly-operator-0.1.0/dragonfly-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2024-06-05T14:53:12.07229824Z"
+generated: "2024-06-06T08:50:29.513174162Z"
