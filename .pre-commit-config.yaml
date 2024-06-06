@@ -8,8 +8,3 @@ repos:
         args: ['--allow-missing-credentials']
       - id: detect-private-key
       - id: end-of-file-fixer
-
-  - repo: https://github.com/norwoodj/helm-docs
-    rev: v1.2.0
-    hooks:
-      - id: helm-docs
